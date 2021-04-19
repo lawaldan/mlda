@@ -1,0 +1,434 @@
+body{
+	background-image: url(pagein/media/ok.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: black;
+	font-family: "garamond",sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+#acc{
+	height: 100px;
+	width: 1180px;
+	margin: auto;
+	margin-bottom: 15px;
+	font-size: 100px;
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+	font-family:"garamond" ,sans-serif;
+
+}
+#main{
+	width: 800px;
+	height: 280px;
+	margin: auto;
+}
+#min{
+	width: 800px;
+	height: 280px;
+	margin: auto;
+	margin-top: 10px;
+}
+.maa{
+	height: 290px;
+	width: 900px;
+	margin: auto;
+	margin-bottom: 15px;
+	margin-top: 10px;
+}
+.mi{
+	height: 200px;
+	width: 580px;
+	float: right;	
+	border: 1px solid rgba(30,30,30,0.4);
+	border-radius: 17px;
+	background-color: rgba(30,30,30,0.5);
+	font-size: 28px;
+	color: white;
+	padding: 10px 10px 0px 10px;
+
+}
+.mo{
+	height: 270px;
+	width: 270px;
+	border: 1px solid rgba(30,30,30,0.4);
+	border-radius: 17px;
+	margin-left: 15px;
+}
+.me{
+	height: 270px;
+	width: 270px;
+	float: right;
+	border: 1px solid rgba(50,10,30,0.4);
+	border-radius: 17px;	
+}
+.mu{
+	height: 190px;
+	width: 580px;
+	border: 1px solid rgba(30,30,30,0.4);
+	border-radius: 17px;
+	margin-left: 15px;
+	background-color: rgba(30,30,30,0.5);
+	font-size: 28px;
+	color: white;
+	padding: 10px 10px 0px 10px;
+}
+
+#aa:hover{
+	border-color: black;
+	height: 250px;
+	margin-bottom: 30px;
+	-o-animation-name: aa;
+	-o-animation-duration: 20s;
+	-o-animation-timing-function: ease;
+	-o-animation-delay: 0s;
+	-o-animation-iteration-count: infinite;
+	-o-animation-direction: alternate;
+
+	-webkit-animation-name: aa;
+	-webkit-animation-duration: 20s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+
+	-moz-animation-name: aa;
+	-moz-animation-duration: 20s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-delay: 0s;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-direction: alternate;
+
+	animation-name: aa;
+	animation-duration: 20s;
+	animation-timing-function: ease;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+-moz-@keyframes aa{
+	0%{background-image: url(pagein/media/aa.jpg);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/arena.jfif);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/arena2.jfif);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/aa.jpg);background-size: 350px 250px;}
+}
+-webkit-@keyframes aa{
+	0%{background-image: url(pagein/media/aa.jpg);background-size: 350px 250px;}
+	40%{background-image: url(media/arena.jfif);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/arena2.jfif);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/aa.jpg);background-size: 350px 250px;}
+}
+-o-@keyframes aa{
+	0%{background-image: url(pagein/media/aa.jpg);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/arena.jfif);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/arena2.jfif);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/aa.jpg);background-size: 350px 250px;}
+}
+@keyframes aa{
+	0%{background-image: url(pagein/media/aa.jpg);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/arena.jfif);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/arena2.jfif);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/aa.jpg);background-size: 350px 250px;}
+}
+#aqa:hover{
+	border-color: black;
+	height: 250px;
+	-o-animation-name: aqa;
+	-o-animation-duration: 20s;
+	-o-animation-timing-function: ease;
+	-o-animation-delay: 0s;
+	-o-animation-iteration-count: infinite;
+	-o-animation-direction: alternate;
+
+	-webkit-animation-name: aqa;
+	-webkit-animation-duration: 20s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+
+	-moz-animation-name: aqa;
+	-moz-animation-duration: 20s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-delay: 0s;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-direction: alternate;
+
+	animation-name: aqa;
+	animation-duration: 20s;
+	animation-timing-function: ease;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+-moz-@keyframes aqa{
+media/	0%{background-image: url(pagein/media/aq.jpg);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/ga.jpg);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/ohh.jpg);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/aq.jpg);background-size: 350px 250px;}
+}
+-webkit-@keyframes aqa{
+	0%{background-image: url(pagein/media/aq.jpg);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/ga.jpg);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/ohh.jpg);background-size: 350px 250px;}
+	100%{background-image: url(pagein/aq.jpg);background-size: 350px 250px;}
+}
+-o-@keyframes aqa{
+	0%{background-image: url(pagein/media/aq.jpg);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/ga.jpg);background-size: 350px 250px;}
+	80%{background-image: url(pagein/pagein/media/ohh.jpg);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/aq.jpg);background-size: 350px 250px;}
+}
+@keyframes aqa{
+	0%{background-image: url(pagein/media/aq.jpg);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/ga.jpg);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/ohh.jpg);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/aq.jpg);background-size: 350px 250px;}
+}
+#jap:hover{
+	border-color: black;
+	height: 250px;
+	-o-animation-name: ja;
+	-o-animation-duration: 20s;
+	-o-animation-timing-function: ease;
+	-o-animation-delay: 0s;
+	-o-animation-iteration-count: infinite;
+	-o-animation-direction: alternate;
+
+	-webkit-animation-name: ja;
+	-webkit-animation-duration: 20s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+
+	-moz-animation-name: ja;
+	-moz-animation-duration: 20s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-delay: 0s;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-direction: alternate;
+
+	animation-name: ja;
+	animation-duration: 20s;
+	animation-timing-function: ease;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+-moz-@keyframes ja{
+	0%{background-image: url(pagein/media/japa.jpg);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/gly.jpg);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/japan.jpg);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/japa.jpg);background-size: 350px 250px;}
+}
+-webkit-@keyframes ja{
+	0%{background-image: url(pagein/media/japa.jpg);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/gly.jpg);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/japan.jpg);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/japa.jpg);background-size: 350px 250px;}
+}
+-o-@keyframes ja{
+	0%{background-image: url(  pagein/media/japa.jpg);background-size: 350px 250px;}
+	40%{background-image: url( pagein/media/gly.jpg);background-size: 350px 250px;}
+	80%{background-image: url( pagein/media/japan.jpg);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/japa.jpg);background-size: 350px 250px;}
+}
+@keyframes ja{
+	0%{background-image: url( pagein/media/japa.jpg);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/gly.jpg);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/japan.jpg);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/japa.jpg);background-size: 350px 250px;}
+}
+#fer:hover{
+	border-color: black;
+	height: 250px;
+	margin-bottom: 30px;
+	-o-animation-name: fe;
+	-o-animation-duration: 20s;
+	-o-animation-timing-function: ease;
+	-o-animation-delay: 0s;
+	-o-animation-iteration-count: infinite;
+	-o-animation-direction: alternate;
+
+	-webkit-animation-name: fe;
+	-webkit-animation-duration: 20s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+
+	-moz-animation-name: fe;
+	-moz-animation-duration: 20s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-delay: 0s;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-direction: alternate;
+
+	animation-name: fe;
+	animation-duration: 20s;
+	animation-timing-function: ease;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+-moz-@keyframes fe{
+	0%{background-image: url(pagein/media/museo.jfif);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/enzo.jfif);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/ferrariw.jfif);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/museo.jfif);background-size: 350px 250px;}
+}
+-webkit-@keyframes fe{
+	0%{background-image: url(pagein/media/museo.jfif);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/enzo.jfif);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/ferrariw.jfif);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/museo.jfif);background-size: 350px 250px;}
+}
+-o-@keyframes fe{
+	0%{background-image: url(pagein/media/museo.jfif);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/enzo.jfif);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/ferrariw.jfif);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/museo.jfif);background-size: 350px 250px;}
+}
+@keyframes fe{
+	0%{background-image: url(pagein/media/museo.jfif);background-size: 350px 250px;}
+	40%{background-image: url(pagein/media/enzo.jfif);background-size: 350px 250px;}
+	80%{background-image: url(pagein/media/ferrariw.jfif);background-size: 350px 250px;}
+	100%{background-image: url(pagein/media/museo.jfif);background-size: 350px 250px;}
+}
+
+#aa{
+
+	height:50px; 
+	width:350px;
+	float: right;
+	margin-bottom: 30px;
+	border: 3px solid rgba(30,30,30,0.4);
+	border-radius: 40px;
+	font-size: 32px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	font-family:"garamond" ,sans-serif;
+	background-color: rgba(30,30,30,0.4);
+	-o-transition:height 2s,margin-bottom 2s;
+	-webkit-transition:height 2s,margin-bottom 2s;
+	-moz-transition:height 2s,margin-bottom 2s;
+	-o-transition:height 2s,margin-bottom 2s;
+}
+#fer{
+
+	height:50px; 
+	width:350px;
+	float: left;
+	margin-bottom: 30px;
+	border: 3px solid rgba(30,30,30,0.4);
+	border-radius: 40px;
+	font-size: 32px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	font-family:"garamond" ,sans-serif;
+	background-color: rgba(30,30,30,0.4);
+	-o-transition:height 2s,margin-bottom 2s;
+	-webkit-transition:height 2s,margin-bottom 2s;
+	-moz-transition:height 2s,margin-bottom 2s;
+	-o-transition:height 2s,margin-bottom 2s;
+
+}
+#aqa{
+
+	height:50px; 
+	width:350px;
+	float: right;
+	border: 3px solid rgba(30,30,30,0.4);
+	border-radius: 40px;
+	font-size: 32px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	font-family:"garamond" ,sans-serif;
+	background-color: rgba(30,30,30,0.4);
+	-o-transition:height 2s,margin-bottom 2s;
+	-webkit-transition:height 2s,margin-bottom 2s;
+	-moz-transition:height 2s,margin-bottom 2s;
+	-o-transition:height 2s,margin-bottom 2s;
+
+}
+#jap{
+
+	height:50px; 
+	width:350px;
+	float: left;
+	border: 3px solid rgba(30,30,30,0.4);
+	border-radius: 40px;
+	font-size: 32px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	font-family:"garamond" ,sans-serif;
+	background-color: rgba(30,30,30,0.4);
+	-o-transition:height 2s,margin-bottom 2s;
+	-webkit-transition:height 2s,margin-bottom 2s;
+	-moz-transition:height 2s,margin-bottom 2s;
+	-o-transition:height 2s,margin-bottom 2s;
+}
+#menu{
+	color: #000;
+	font-size: 28px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+table{
+	margin:auto;
+	
+}
+th{
+	border: 2px solid rgba(30,30,30,0.4);
+	border-radius: 13px;
+	background-color:rgba(70,70,100,0.8) ;
+	font-family: "garamond",sans-serif;
+	color: white;
+}
+th:hover{
+	background-color: blue;
+}
+:link{
+	text-decoration: none;
+	color: white;
+}
+:visited{
+	color: white;
+}
+#ft{
+	background-image: url(pagein/media/mf.jfif);
+	background-size: cover;
+}
+#mun{
+	background-image: url(pagein/media/mun.jpg);
+	background-size: cover;
+}
+#geo{
+	background-image: url(pagein/media/geo.jpg);
+	background-size: cover;
+}
+#ku{
+	background-image: url(pagein/media/ku.jpg);
+	background-size: cover;
+}
+#corn{
+	position: fixed;
+	background-color: black;
+	color: white;
+	width: 160px;
+	float: left;
+	font-weight: bold;
+	margin-right: 15px;
+	border: 10px solid black;
+	opacity: 0.4;
+}
